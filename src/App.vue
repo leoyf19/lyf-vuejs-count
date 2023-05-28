@@ -84,6 +84,6 @@ const hasFavorite = computed(() => {
   }
 
   .zero {
-    color: black;
+    color: peru;
   }
 </style>
